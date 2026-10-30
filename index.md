@@ -18,6 +18,6 @@ How It Works
 
 Privacy
 
-For information about how Google Drive data is accessed, used, and stored, please read the "Privacy Policy" (https://shtab77.github.io/privacy.html).
+For information about how Google Drive data is accessed, used, and stored, please read the [Privacy Policy](https://shtab77.github.io/privacy.html).
 
 This application is intended solely for personal backup and recovery purposes.
