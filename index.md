@@ -1,8 +1,3 @@
----
-
-layout: default
-title: Fedora Backup
-
 Fedora Backup
 
 Fedora Backup is a personal-use backup application that uses rclone and restic to securely store backup files in Google Drive.
